@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schneller Neustart</string>
+    <string name="reboot">Neustarten</string>
+    <string name="reboot_des">Starte Dein Gerät neu</string>
+    <string name="reboot_ques">Bist Du einverstanden, Dein Gerät neuzustarten?</string>
+    <string name="reboot_to_reset_message">Neustartend…</string>
+    <string name="poweroff">Ausschalten</string>
+    <string name="poweroff_des">Schalte Dein Gerät aus</string>
+    <string name="poweroff_ques">Bist Du einverstanden, Dein Gerät auszuschalten?</string>
+    <string name="poweroff_to_reset_message">Fährt herunter…</string>
+    <string name="softreboot">Software-Neustart</string>
+    <string name="softreboot_des">Nur das Android-System neustarten</string>
+    <string name="softreboot_ques">Bist Du einverstanden, Deine Gerätesoftware neuzustarten?</string>
+    <string name="softreboot_to_reset_message">Ins System neustartend…</string>
+    <string name="recovery">Recovery-Modus</string>
+    <string name="recovery_des">Dein Gerät in den Recovery-Modus neustarten</string>
+    <string name="recovery_ques">Akzeptierst Du, dass Dein Gerät in den Recovery-Modus startet?</string>
+    <string name="recovery_to_reset_message">Neustartend in Recovery…</string>
+    <string name="bootloader">Bootloader-Modus</string>
+    <string name="bootloader_des">Download oder Deine Gerät in den Fastboot-Modus neustarten</string>
+    <string name="bootloader_ques">Akzeptierst Du, dass Dein Gerät in den Bootloader-Modus startet?</string>
+    <string name="bootloader_to_reset_message">Neustartend in Bootloader…</string>
+    <string name="download">Download-Modus (Samsung)</string>
+    <string name="download_des">Dein Gerät in den Download-Modus neustarten</string>
+    <string name="download_ques">Akzeptierst Du, dass Dein Gerät in den Download-Modus startet?</string>
+    <string name="download_to_reset_message">Neustartend in Download…</string>
+    <string name="systemui">System-Benutzeroberfläche</string>
+    <string name="systemui_des">In die System-Benutzeroberfläche neustarten</string>
+    <string name="systemui_ques">Akzeptierst Du, dass Dein Gerät in die System-Benutzeroberfläche startet?</string>
+    <string name="systemui_to_reset_message">Neustartend in System-Benutzeroberfläche…</string>
+    <string name="safemode">Abgesicherter Modus</string>
+    <string name="safemode_des">Dein Gerät in den abgesicherten Modus neustarten</string>
+    <string name="safemode_ques">Akzeptierst Du, dass Dein Gerät in den abgesicherten Modus startet?</string>
+    <string name="safemode_to_reset_message">Neustartend in abgesicherten Modus…</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="okey">Okay</string>
+    <string name="splash">Root ist erforderlich, damit die Anwendung funktioniert. Root überprüfen. Warten Sie mal.</string>
+    <string name="root">Root-Kontrollseite</string>
+    <string name="notroot">Gerät ist nicht gerootet</string>
+    <string name="checkroot">Root-Überprüfung</string>
+    <string name="about">Über</string>
+    <string name="developer">Entwickler</string>
+    <string name="telegram">Telegram-Kanal</string>
+    <string name="telegram_des">Jüngste Entwicklungen meiner Applikationen</string>
+    <string name="dark_mode">Thema</string>
+    <string name="share">Teilen</string>
+    <string name="share_des">Du kannst sie Deinen Freunden empfehlen</string>
+    <string name="feedback">Rückmeldung</string>
+    <string name="feedback_des">Dem Entwickler zwecks Unterstützung, Vorschlägen und Fehlermeldungen eine E-mail schicken</string>
+    <string name="posted">Gepostet durch Quick Reboot</string>
+    <string name="shareup">Mit einem teilen</string>
+    <string name="sharetext">Ich fand gerade eine sehr nette Applikation und dachte, sie wäre auch für Dich nützlich
+
+https://eypcnnapps.github.i/quickreboot.github.io/</string>
+    <string name="donate">Entwickler unterstützen</string>
+    <string name="donate_des">Den Entwickler durch das Betrachten von etwas Werbung unterstützen</string>
+    <string name="thanks">Danke :)</string>
+    <string name="not_internet">Internetverbindung nicht zu finden</string>
+    <string name="back_button">Möchtest Du wirklich die Applikation schließen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="translate">Mache die Übersetzung</string>
+    <string name="translate_des">Wie wäre es mit einer Übersetzung, um die Applikation in ihrer eigenen Sprache zu benutzen?</string>
+    <string name="supportus">Uns unterstützend</string>
+    <string name="supportyou">Euch unterstützen</string>
+    <string name="new_update">Neue Version entdeckt - lass uns jetzt updaten</string>
+
+    <string name="edl">Starten Sie EDL</string>
+    <string name="edl_des">Starten Sie Ihr Gerät in EDL</string>
+    <string name="edl_ques">Akzeptieren Sie, dass Ihr Gerät in EDL geöffnet wird?</string>
+    <string name="edl_to_reset_message">Neustart auf edl...</string>
+
+    <string name="screen">Bildschirm ausschalten</string>
+    <string name="screen_des">Der Bildschirm wird ausgeschaltet</string>
+
+    <string name="light">Licht</string>
+    <string name="dark">Dunkel</string>
+    <string name="system_default">Systemstandard</string>
+    <string name="set_battery">Wird vom Batteriesparmodus</string>
+    <string name="privacy_policy">Datenschutz-Bestimmungen</string>
+    <string name="licenses">Lizenzen</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick Reboot</string>
+    <string name="reboot">Restart</string>
+    <string name="reboot_des">Restartovat zařízení</string>
+    <string name="reboot_ques">Souhlasíte s restartováním zařízení?</string>
+    <string name="reboot_to_reset_message">Restartování…</string>
+    <string name="poweroff">Vypnout</string>
+    <string name="poweroff_des">Vypnout zařízení</string>
+    <string name="poweroff_ques">Souhlasíte s vypnutím zařízení?</string>
+    <string name="poweroff_to_reset_message">Vypínání…</string>
+    <string name="softreboot">Softwarový restart</string>
+    <string name="softreboot_des">Pouze restartovat systém Android</string>
+    <string name="softreboot_ques">Souhlasíte se softwarovým restartováním zařízení?</string>
+    <string name="softreboot_to_reset_message">Softwarové restartování…</string>
+    <string name="recovery">Režim recovery</string>
+    <string name="recovery_des">Restartovat zařízení do režimu recovery</string>
+    <string name="recovery_ques">Souhlasíte, že se vaše zařízení restartuje do režimu recovery?</string>
+    <string name="recovery_to_reset_message">Restartování do recovery…</string>
+    <string name="bootloader">Režim bootloader</string>
+    <string name="bootloader_des">Zavedení nebo restart zařízení do režimu Fastboot</string>
+    <string name="bootloader_ques">Souhlasíte, že se vaše zařízení restartuje do režimu bootloader?</string>
+    <string name="bootloader_to_reset_message">Restartování do režimu bootloader…</string>
+    <string name="download">Režim download (Samsung)</string>
+    <string name="download_des">Restartovat zařízení do režimu download</string>
+    <string name="download_ques">Souhlasíte, že se vaše zařízení restartuje do režimu download?</string>
+    <string name="download_to_reset_message">Restartování do režimu download…</string>
+    <string name="systemui">System UI</string>
+    <string name="systemui_des">Restartovat System UI</string>
+    <string name="systemui_ques">Souhlasíte, že vaše zařízení restartuje System UI?</string>
+    <string name="systemui_to_reset_message">Restartování System UI…</string>
+    <string name="safemode">Bezpečný režim</string>
+    <string name="safemode_des">Restartovat zařízení do bezpečného režimu</string>
+    <string name="safemode_ques">Souhlasíte, že se vaše zařízení restartuje do bezpečného režimu?</string>
+    <string name="safemode_to_reset_message">Restartování do bezpečného režimu…</string>
+    <string name="cancel">Zrušit</string>
+    <string name="okey">OK</string>
+    <string name="splash">Aby aplikace fungovala, je vyžadován kořen. Kontrola kořene. Prosím, čekejte.</string>
+    <string name="root">Stránka Root Control</string>
+    <string name="notroot">Zařízení nemá přístup root</string>
+    <string name="checkroot">Kontrola root</string>
+    <string name="about">O aplikaci</string>
+    <string name="developer">Vývojář</string>
+    <string name="telegram">Telegram kanál</string>
+    <string name="telegram_des">Poslední vývoj v mých aplikacích</string>
+    <string name="dark_mode">Téma</string>
+    <string name="share">Sdílet</string>
+    <string name="share_des">Doporučte aplikaci svým přátelům</string>
+    <string name="feedback">Zpětná vazba</string>
+    <string name="feedback_des">Pro podporu, návrhy a hlášení chyb odešlete e-mail vývojáři</string>
+    <string name="posted">Autor: Quick Reboot</string>
+    <string name="shareup">Sdílet</string>
+    <string name="sharetext">Podařilo se mi najít skvělou aplikaci, a myslím si, že by se ti mohla hodit:
+https://eypcnnapps.github.io/quickreboot.github.io/</string>
+    <string name="donate">Podpora vývojáře</string>
+    <string name="donate_des">Podpořte vývojáře zhlédnutím krátké reklamy</string>
+    <string name="thanks">Díky :)</string>
+    <string name="not_internet">Nelze najít připojení k Internetu</string>
+    <string name="back_button">Opravdu chcete aplikaci ukončit?</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    <string name="translate">Přeložit</string>
+    <string name="translate_des">Co takhle udělat překlad, když chcete aplikaci používat v rodném jazyce?</string>
+    <string name="supportus">Podpořte nás</string>
+    <string name="supportyou">Podpořit</string>
+    <string name="new_update">Byla zjištěna nová verze. Pojďme aktualizovat</string>
+
+    <string name="edl">Reboot into EDL</string>
+    <string name="edl_des">Restart Your Device In EDL</string>
+    <string name="edl_ques">Do You Accept Your Device Will Open In EDL?</string>
+    <string name="edl_to_reset_message">Rebooting to edl...</string>
+
+    <string name="screen">Turn Off Screen</string>
+    <string name="screen_des">It Will Turn Off Your Screen</string>
+
+    <string name="light">Světlo</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">Výchozí nastavení systému</string>
+    <string name="set_battery">Nastaveno šetřičem baterie</string>
+    <string name="privacy_policy">Zásady ochrany osobních údajů</string>
+    <string name="licenses">Licence</string>
+</resources>

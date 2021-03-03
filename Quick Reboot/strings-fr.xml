@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Redémarrage Rapide</string>
+    <string name="reboot">Redémarrage Complet</string>
+    <string name="reboot_des">Redémarrez Votre Appareil</string>
+    <string name="reboot_ques">Êtes-vous d\'accord pour redémarrer votre appareil ?</string>
+    <string name="poweroff">Éteindre</string>
+    <string name="poweroff_des">Éteindre appareil</string>
+    <string name="poweroff_ques">Êtes-vous d\'accord pour éteindre votre appareil ?</string>
+    <string name="softreboot">Redémarrage logiciel</string>
+    <string name="softreboot_des">Redémarrage simplement d\'Android</string>
+    <string name="softreboot_ques">Êtes-vous d\'accord de redémarrer le logiciel de l\'appareil ?</string>
+    <string name="recovery">Redémarrer en mode recovery</string>
+    <string name="recovery_des">Redémarrer votre appareil en mode recovery</string>
+    <string name="recovery_ques">Elle est d\'accord que le logiciel redémarre en mode recovery ?</string>
+    <string name="bootloader">Mode bootloader</string>
+    <string name="bootloader_des">Flasher ou redémarrer votre appareil en mode fastboot</string>
+    <string name="bootloader_ques">Est d\'accord que le logiciel redémarre votre appareil en mode bootloader</string>
+    <string name="download">Redémarrer en mode Download (SAMSUNG uniquement)</string>
+    <string name="download_des">Redémarrer votre appareil en mode download</string>
+    <string name="download_ques">Êtes-vous d\'accord que le logiciel redémarre en mode download</string>
+    <string name="systemui">Interface graphique du système</string>
+    <string name="systemui_des">Redémarrer l\'interface système</string>
+    <string name="systemui_ques">Êtes-vous d\'accord que le logiciel redémarre le système graphique de votre appareil</string>
+    <string name="safemode">Mode sécurisé</string>
+    <string name="safemode_des">Redémarrer votre appareil en mode sécurisé</string>
+    <string name="safemode_ques">Est d\'accord que le logiciel redémarre votre appareil en mode sécurisé</string>
+    <string name="cancel">Fermer quitter</string>
+    <string name="okey">Valider</string>
+    <string name="splash">La racine est requise pour que l\'application fonctionne. Vérification de la racine. S\'il vous plaît, attendez.</string>
+    <string name="root">Page de contrôle racine</string>
+    <string name="notroot">Et l\'appareil n\'est pas rooté</string>
+    <string name="checkroot">Vérification du root</string>
+    <string name="about">À propos</string>
+    <string name="developer">Développeur</string>
+    <string name="dark_mode">Thème</string>
+    <string name="share">Partager</string>
+    <string name="share_des">Recommander l\'application à un copain</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedback_des">Envoyer un email au développeur afin de lui faire part de bug ou de suggestion</string>
+    <string name="posted">Poster par quick reboot</string>
+    <string name="shareup">Partager avec un ami</string>
+    <string name="sharetext">Je viens de trouver une super application très utile pour toi viens la découvrir
+https://eypcnnapps.github.io/quickreboot.github.io/</string>
+    <string name="translate">Faire une transaction</string>
+    <string name="translate_des">Pourquoi faire une donation ?  afin que l\'application soit traduite dans votre langage</string>
+    <string name="supportus">Nous soutenir</string>
+    <string name="supportyou">Vous soutenir</string>
+    <string name="new_update">Nouvelle version détectée Mettons à jour maintenant</string>
+    <string name="donate">Développeur de support</string>
+    <string name="donate_des">Soutenez le développeur en regardant une petite annonce</string>
+    <string name="thanks">Je vous remercie :)</string>
+    <string name="not_internet">Impossible de trouver la connexion Internet</string>
+    <string name="back_button">Voulez-vous vraiment fermer l\'application?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+
+    <string name="telegram">Chaîne de télégramme</string>
+    <string name="telegram_des">Développements récents sur mes applications</string>
+
+    <string name="reboot_to_reset_message">Redémarrage...</string>
+    <string name="poweroff_to_reset_message">Fermeture...</string>
+    <string name="softreboot_to_reset_message">Redémarrage vers le logiciel...</string>
+    <string name="recovery_to_reset_message">Redémarrage en récupération...</string>
+    <string name="bootloader_to_reset_message">Redémarrage vers le chargeur de démarrage...</string>
+    <string name="download_to_reset_message">Redémarrage pour télécharger...</string>
+    <string name="systemui_to_reset_message">Redémarrage vers SystemUI...</string>
+    <string name="safemode_to_reset_message">Redémarrage en mode sans échec...</string>
+
+    <string name="edl">Redémarrez dans EDL</string>
+    <string name="edl_des">Redémarrez votre appareil dans EDL</string>
+    <string name="edl_ques">Acceptez-vous que votre appareil s\'ouvre dans EDL?</string>
+    <string name="edl_to_reset_message">Redémarrage vers edl...</string>
+
+    <string name="screen">Désactiver l\'écran</string>
+    <string name="screen_des">Cela éteindra votre écran</string>
+
+    <string name="light">Lumière</string>
+    <string name="dark">Sombre</string>
+    <string name="system_default">Valeur système par défaut</string>
+    <string name="set_battery">Défini par l\'économiseur de batterie</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="licenses">Licences</string>
+
+</resources>

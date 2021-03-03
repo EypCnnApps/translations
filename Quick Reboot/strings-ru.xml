@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Быстрый перезапуск</string>
+
+    <string name="reboot">Начать сначала</string>
+    <string name="reboot_des">Перезагрузите устройство</string>
+    <string name="reboot_ques">Ваше устройство перезагрузится. Подтверждаете ли вы ?</string>
+    <string name="reboot_to_reset_message">Перезагрузка...</string>
+
+    <string name="poweroff">близко</string>
+    <string name="poweroff_des">Это выключит ваше устройство</string>
+    <string name="poweroff_ques">Он выключит ваше устройство, вы подтверждаете ?</string>
+    <string name="poweroff_to_reset_message">Закрытие...</string>
+
+    <string name="softreboot">Программный перезапуск</string>
+    <string name="softreboot_des">Система перезагрузится только до того, как ваше устройство будет полностью выключено</string>
+    <string name="softreboot_ques">Вы подтверждаете, что ваше устройство будет мягко перезагружено ?</string>
+    <string name="softreboot_to_reset_message">Перезапуск программного обеспечения...</string>
+
+    <string name="recovery">Загрузиться в режиме восстановления</string>
+    <string name="recovery_des">Ваше устройство будет открыто в режиме восстановления</string>
+    <string name="recovery_ques">Согласны ли вы, что ваше устройство будет открыто в режиме восстановления ?</string>
+    <string name="recovery_to_reset_message">Перезагрузка в режиме восстановления...</string>
+
+    <string name="bootloader">Начать в режиме загрузки</string>
+    <string name="bootloader_des">Cihazınız Он откроется в режиме (FastBoot)</string>
+    <string name="bootloader_ques">Ваше устройство будет загружено в режиме (FastBoot). Подтверждаете ли вы ?</string>
+    <string name="bootloader_to_reset_message">Перезапуск из режима загрузки...</string>
+
+    <string name="download">Режим загрузки (только Samsung)</string>
+    <string name="download_des">Ваше устройство откроется в режиме загрузки</string>
+    <string name="download_ques">Ваше устройство будет открыто в режиме загрузки. Подтверждаете ли вы ?</string>
+    <string name="download_to_reset_message">Перезапуск в режиме загрузки...</string>
+
+    <string name="systemui">System UI</string>
+    <string name="systemui_des">System UI Будет перезапущен</string>
+    <string name="systemui_ques">System UI Будет перезапущен, вы подтверждаете?</string>
+    <string name="systemui_to_reset_message">Перезагрузка SystemUI...</string>
+
+    <string name="safemode">Безопасный режим</string>
+    <string name="safemode_des">Ваше устройство загрузится в безопасном режиме</string>
+    <string name="safemode_ques">Ваше устройство будет открыто в безопасном режиме. Вы подтверждаете? ?</string>
+    <string name="safemode_to_reset_message">Перезапуск в безопасном режиме...</string>
+
+    <string name="cancel">Нет</string>
+    <string name="okey">да</string>
+    <string name="splash">Для работы приложения необходим рут. Проверка root. Пожалуйста, подождите.</string>
+    <string name="root">Корневая страница управления</string>
+    <string name="notroot">У вас нет рут-доступа на вашем устройстве :(</string>
+    <string name="checkroot">Проверь это</string>
+    <string name="back_button">Вы уверены, что хотите выйти из приложения??</string>
+    <string name="yes">да</string>
+    <string name="no">Нет</string>
+
+    <string name="about">Около</string>
+    <string name="developer">Разработчик</string>
+    <string name="dark_mode">Тема</string>
+    <string name="share">доля</string>
+    <string name="share_des">Что рассказать друзьям об этом приложении ?</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="feedback_des">Вы можете отправить электронное письмо разработчику с ошибками, предложениями и запросами. :)</string>
+
+    <string name="posted">Hızlı Yeniden Başlat Отправлено из приложения</string>
+    <string name="shareup">Поделиться с одним из них</string>
+    <string name="sharetext">То, что я только что нашел, я уверен, это сработает для вас.
+https://eypcnnapps.github.io/quickreboot.github.io/</string>
+
+    <string name="translate">Перевести</string>
+    <string name="translate_des">Как насчет перевода для использования приложения на вашем родном языке ?</string>
+    <string name="supportus">Кто нас поддерживает</string>
+    <string name="supportyou">Поддержать тебя</string>
+    <string name="new_update">Обнаружена новая версия Приходите обновить сейчас</string>
+    <string name="donate">Поддержка разработчика</string>
+    <string name="donate_des">Поддержите разработчика, посмотрев небольшое объявление</string>
+    <string name="thanks">Спасибо :)</string>
+    <string name="not_internet">Нет подключения к Интернету</string>
+    <string name="telegram">Мой Telegram канал</string>
+    <string name="telegram_des">Следите за последними событиями</string>
+
+    <string name="edl">Перезагрузитесь в EDL</string>
+    <string name="edl_des">Перезагрузите устройство в EDL</string>
+    <string name="edl_ques">Вы соглашаетесь, что ваше устройство откроется в EDL?</string>
+    <string name="edl_to_reset_message">Перезагрузка в edl...</string>
+
+    <string name="screen">Отключить экран</string>
+    <string name="screen_des">Это выключит ваш экран</string>
+
+    <string name="light">Светлый</string>
+    <string name="dark">Темный </string>
+    <string name="system_default">Системное значение по умолчанию</string>
+    <string name="set_battery">Устанавливается функцией экономии заряда батареи</string>
+    <string name="licenses">Лицензии</string>
+    <string name="privacy_policy">политика конфиденциальности</string>
+</resources>
