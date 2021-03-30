@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्पीकर क्लीनर</string>
+
+    <!---activity_privacy.xml-->
+    <string name="privacy0"><a href="https://eypcnnapps.github.io/cleanspeaker.github.io/privacy-policy.html"><span style="text-decoration: underline; color: #0000ff;">गोपनीय समझौत</span></a> तथा <a href="https://eypcnnapps.github.io/cleanspeaker.github.io/terms-conditions.html"><span style="text-decoration: underline; color: #0000ff;">उपयोग की शर्तेंा</span></a> मैं पढ़ता हूं और स्वीकार करता हूं.</string>
+    <string name="privacy1">उपयोग की शर्तें</string>
+    <string name="privacy2">पुष्टि करें और जारी रखें</string>
+    <string name="privacy3">रद्द करना</string>
+
+    <!---activity_main.xml-->
+    <string name="clear_info">स्पीकर को साफ करने के लिए 30 सेकंड की ध्वनि चलाएं</string>
+    <string name="clear_info2">के बारे में\n1. यदि आप अपने स्पीकर को हल्के धूल से भरा हुआ पाते हैं, तो इस सुविधा को एक या दो बार चलाएं।\n2. यदि स्पीकर अत्यधिक बाधित हो जाता है, तो अपने डिवाइस को स्पीकर के साथ हिलाकर 2-5 बार इस सुविधा को संचालित करें।.</string>
+
+    <!---attention_dialog.xml-->
+    <string name="attention">महत्वपूर्ण</string>
+    <string name="attention_info">सफाई की प्रक्रिया में 30 सेकंड लगते हैं.\nकृपया इस पृष्ठ को न छोड़े।.\nसर्वोत्तम प्रभाव के लिए आयतन को अधिकतम करें.</string>
+    <string name="gotit">मै समझता हुँ</string>
+
+
+    <!---back_pressed.xml-->
+    <string name="yess">हाँ</string>
+    <string name="cancel">रद्द करना</string>
+
+    <!---activity_about.xml-->
+    <string name="about">के बारे में</string>
+    <string name="developer">डेवलपर</string>
+    <string name="dark_mode">डार्क मोड को सक्रिय करें</string>
+    <string name="share">शेयर</string>
+    <string name="feedback">प्रतिपुष्टि</string>
+    <string name="feedback_des">Soru ve sorunlarınız hakkında bana hızlıca ulaşabilirsiniz</string>
+    <string name="posted">Hoparlör Temizleyici Uygulamasından Gönderildi</string>
+    <string name="shareup">निम्नलिखित में से एक का चयन करके प्रारंभ करें</string>
+    <string name="sharetext">मुझे अभी-अभी फ़ोन और टैबलेट के लिए एक बेहतरीन स्पीकर क्लीनर मिला है, इसे अभी आज़माएं और यह मेरे लिए काम कर गया।\n\n
+https://eypcnnapps.github.io/cleanspeaker.github.io/</string>
+    <string name="donate">समर्थन डेवलपर</string>
+    <string name="thanks">धन्यवाद :)</string>
+    <string name="not_internet">इंटरनेट कनेक्शन नहीं मिल सका</string>
+    <string name="back_button">क्या आप वाकई ऐप छोड़ना चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं न</string>
+    <string name="translate">हमारी मदद करो!</string>
+    <string name="app_version">संस्करण:</string>
+
+    <string name="light">उज्ज्वल</string>
+    <string name="dark">अंधेरा</string>
+    <string name="system_default">सिस्टम डिफ़ॉल्ट</string>
+    <string name="set_battery">बैटरी सेवर द्वारा सेट करें</string>
+
+    <!---Update Text-->
+    <string name="newversion">नया संस्करण मिला</string>
+    <string name="continuee">अपडेट करें</string>
+</resources>

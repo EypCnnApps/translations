@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clear Speaker</string>
+
+    <!---activity_privacy.xml-->
+    <string name="privacy0"><a href="https://eypcnnapps.github.io/cleanspeaker.github.io/privacy-policy.html"><span style="text-decoration: underline; color: #0000ff;">политика конфиденциальности</span></a> и <a href="https://eypcnnapps.github.io/cleanspeaker.github.io/terms-conditions.html"><span style="text-decoration: underline; color: #0000ff;">Условия эксплуатации</span></a> я читаю и принимаю.</string>
+    <string name="privacy1">Условия использования</string>
+    <string name="privacy2">Подтвердить и продолжить</string>
+    <string name="privacy3">Отменить</string>
+
+    <!---activity_main.xml-->
+    <string name="clear_info">Воспроизведите 30-секундный звук, чтобы очистить спекер</string>
+    <string name="clear_info2">Об этой функции\n1. Запустите эту функцию один или два раза, если вы обнаружите, что ваш спелаер слегка заблокирован пылью.\n2. Если динамик сильно заблокирован, запустите эту функцию 2–5 раз, встряхивая устройство динамиком вниз..</string>
+
+    <!---attention_dialog.xml-->
+    <string name="attention">Внимание</string>
+    <string name="attention_info">Очистка занимает 30 секунд.\nНе покидайте эту страницу.\nУвеличьте громкость звука для получения наилучших эффектов.</string>
+    <string name="gotit">Понял</string>
+
+    <!---back_pressed.xml-->
+    <string name="yess">да</string>
+    <string name="cancel">Отмена</string>
+
+    <!---activity_about.xml-->
+    <string name="about">О приложении</string>
+    <string name="developer">Разработчик</string>
+    <string name="dark_mode">Karanlık Modu Aktif Et</string>
+    <string name="share">Поделиться</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="feedback_des">Отправить электронное письмо разработчику для поддержки, предложений и ошибок</string>
+    <string name="posted">Автор: Clear Speaker RUS</string>
+    <string name="shareup">Поделиться с одним</string>
+    <string name="sharetext">Я только что нашел очень хорошее приложение, подумал, будет вам полезно\n\n
+https://eypcnnapps.github.io/cleanspeaker.github.io/</string>
+    <string name="donate">Поддержка разработчика</string>
+    <string name="thanks">Спасибо :)</string>
+    <string name="not_internet">Не удалось найти подключение к Интернету</string>
+    <string name="back_button">Вы уверены, что хотите выйти из приложения??</string>
+    <string name="yes">да</string>
+    <string name="no">Нет</string>
+    <string name="translate">Помогите нам!</string>
+    <string name="app_version">Версия:</string>
+
+    <string name="light">Свет</string>
+    <string name="dark">Темный</string>
+    <string name="system_default">Системное значение по умолчанию</string>
+    <string name="set_battery">Устанавливается функцией энергосбережения</string>
+
+    <!---Update Text-->
+    <string name="newversion">Доступна новая версия</string>
+    <string name="continuee">Обновить</string>
+</resources>

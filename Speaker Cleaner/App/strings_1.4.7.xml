@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Clear Speaker</string>
+
+    <!---activity_privacy.xml-->
+    <string name="privacy0"><a href="https://eypcnnapps.github.io/cleanspeaker.github.io/privacy-policy.html"><span style="text-decoration: underline; color: #4386f7;">Privacy Policy</span></a> and <a href="https://eypcnnapps.github.io/cleanspeaker.github.io/terms-conditions.html"><span style="text-decoration: underline; color: #4386f7;">Terms of Use</span></a> i read and accept.</string>
+    <string name="privacy1">Terms of Conditions</string>
+    <string name="privacy2">Confirm and Continue</string>
+    <string name="privacy3">Cancel</string>
+
+    <!---activity_main.xml-->
+    <string name="clear_info">Play a 30 second audio to clear the speaker</string>
+    <string name="clear_info2">About this feature\n1. Run this feature once or twice if you find that your speaker is blocked by dust\n2. If the speaker is blocked heavily, run this feature 2–5 times while shaking your device with the speaker facing downwards.</string>
+
+    <!---attention_dialog.xml-->
+    <string name="attention">Attention</string>
+    <string name="attention_info">Clearing takes 30 seconds.\nDon\'t leave this page.\nMaximize sound volume for best effects.</string>
+    <string name="gotit">Got it</string>
+
+    <!---back_pressed.xml-->
+    <string name="yess">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <!---activity_about.xml-->
+    <string name="about">About</string>
+    <string name="developer">Developer</string>
+    <string name="dark_mode">Enable Dark Mode</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedback_des">Send Email To The Developer For Support, Suggestions And Errors</string>
+    <string name="posted">Posted by Clear Speaker</string>
+    <string name="shareup">Share With One</string>
+    <string name="sharetext">I just found a very nice application, I thought it would be useful to you
+https://eypcnnapps.github.io/cleanspeaker.github.io/</string>
+    <string name="donate">Support Developer</string>
+    <string name="thanks">Thanks :)</string>
+    <string name="not_internet">Can\'t Find Internet Connection</string>
+    <string name="back_button">Do you really want to close the application?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="translate">Help us out!</string>
+    <string name="app_version">Version:</string>
+
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System Default</string>
+    <string name="set_battery">Set by Battery Saver</string>
+
+    <!---Update Text-->
+    <string name="newversion">New version available</string>
+    <string name="continuee">Continue</string>
+</resources>

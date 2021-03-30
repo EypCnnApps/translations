@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hoparlör Temizleyici</string>
+
+    <!---activity_privacy.xml-->
+    <string name="privacy0"><a href="https://eypcnnapps.github.io/cleanspeaker.github.io/privacy-policy.html"><span style="text-decoration: underline; color: #0000ff;">Gizlilik Sözleşmesi</span></a> ve <a href="https://eypcnnapps.github.io/cleanspeaker.github.io/terms-conditions.html"><span style="text-decoration: underline; color: #0000ff;">Kullanım Koşullarını</span></a> okudum ve kabul ediyorum.</string>
+    <string name="privacy1">Kullanım Koşulları</string>
+    <string name="privacy2">Onayla ve Devam Et</string>
+    <string name="privacy3">İptal</string>
+
+    <!---activity_main.xml-->
+    <string name="clear_info">Hoparlörü temizlemek için 30 saniyelik bir ses çal</string>
+    <string name="clear_info2">Hakkında\n1. Hoparlörünüzün hafif tozla tıkandığını fark ederseniz bu özelliği bir veya iki kez çalıştırın\n2. Hoparlör aşırı derecede engellenirse cihazınızı hoparlör aşağıya bakacak şekilde sallayarak bu özelliği 2-5 defa çalıştırın.</string>
+
+    <!---attention_dialog.xml-->
+    <string name="attention">Dikkat</string>
+    <string name="attention_info">Temizleme işlemi 30 saniye sürmektedir.\nLütfen bu sayfadan ayrılmayınız.\nEn iyi etki için ses seviyesini en üst seviyeye getirin.</string>
+    <string name="gotit">Anladım</string>
+
+
+    <!---back_pressed.xml-->
+    <string name="yess">Evet</string>
+    <string name="cancel">Vazgeç</string>
+
+    <!---activity_about.xml-->
+    <string name="about">Hakkında</string>
+    <string name="developer">Geliştirici</string>
+    <string name="dark_mode">Karanlık Modu Aktif Et</string>
+    <string name="share">Paylaş</string>
+    <string name="feedback">Geri Bildirim</string>
+    <string name="feedback_des">Soru ve sorunlarınız hakkında bana hızlıca ulaşabilirsiniz</string>
+    <string name="posted">Hoparlör Temizleyici Uygulamasından Gönderildi</string>
+    <string name="shareup">Aşağıdakilerden Birini Seçerek Başla</string>
+    <string name="sharetext">Az önce telefonlar ve tabletler için harika bir Hoparlör Temizleyici buldum sende hemen dene bende işe yaradı\n\n
+https://eypcnnapps.github.io/cleanspeaker.github.io/</string>
+    <string name="donate">Geliştiriciyi Destekle</string>
+    <string name="thanks">Teşekkürler :)</string>
+    <string name="not_internet">İnternet Bağlantısı Bulamadım</string>
+    <string name="back_button">Uygulamadan çıkmak istediğine emin misin?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="translate">Bize yardımcı olun!</string>
+    <string name="app_version">Sürüm:</string>
+
+    <string name="light">Aydınlık</string>
+    <string name="dark">Karanlık</string>
+    <string name="system_default">Sistem Varsayılanı</string>
+    <string name="set_battery">Pil Tasarrufuna Göre</string>
+
+    <!---Update Text-->
+    <string name="newversion">Yeni Sürüm Bulundu</string>
+    <string name="continuee">Güncelle</string>
+</resources>

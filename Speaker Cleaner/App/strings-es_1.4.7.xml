@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Clear Speaker</string>
+
+    <!---activity_privacy.xml-->
+    <string name="privacy0"><a href="https://eypcnnapps.github.io/cleanspeaker.github.io/privacy-policy.html"><span style="text-decoration: underline; color: #4386f7;">Política de privacidad</span></a> y <a href="https://eypcnnapps.github.io/cleanspeaker.github.io/terms-conditions.html"><span style="text-decoration: underline; color: #4386f7;">Condiciones de uso</span></a> yo leo y acepto.</string>
+    <string name="privacy1">Términos y condiciones</string>
+    <string name="privacy2">Confirmar y continuar</string>
+    <string name="privacy3">Cancelar</string>
+
+    <!---activity_main.xml-->
+    <string name="clear_info">Reproduce un audio de 30 segundos para borrar el altavoz</string>
+    <string name="clear_info2">Acerca de esta característica\n1. Ejecute esta función una o dos veces si encuentra que su altavoz está bloqueado por polvo\n2. Si el altavoz está muy bloqueado, ejecute esta función de 2 a 5 veces mientras agita el dispositivo con el altavoz hacia abajo..</string>
+
+    <!---attention_dialog.xml-->
+    <string name="attention">Atención</string>
+    <string name="attention_info">La limpieza tarda 30 segundos.\nNo salgas de esta pagina.\nMaximice el volumen del sonido para obtener los mejores efectos.</string>
+    <string name="gotit">Entiendo</string>
+
+    <!---back_pressed.xml-->
+    <string name="yess">sí</string>
+    <string name="cancel">Cancelar</string>
+
+    <!---activity_about.xml-->
+    <string name="about">Sobre</string>
+    <string name="developer">Desarrollador</string>
+    <string name="dark_mode">Habilitar el modo oscuro</string>
+    <string name="share">Cuota</string>
+    <string name="feedback">Comentario</string>
+    <string name="feedback_des">Enviar Un Correo Electrónico Al Desarrollador Para Obtener Soporte, Sugerencias Y Errores</string>
+    <string name="posted">Publicado por Clear Speaker</string>
+    <string name="shareup">Compartir Con Uno</string>
+    <string name="sharetext">Acabo de encontrar una aplicación muy agradable, pensé que sería útil para usted
+https://eypcnnapps.github.io/cleanspeaker.github.io/</string>
+    <string name="donate">Desarrollador De Soporte</string>
+    <string name="thanks">Gracias :)</string>
+    <string name="not_internet">No se puede encontrar la conexión a Internet</string>
+    <string name="back_button">Realmente quieres cerrar la aplicación?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="translate">Ayúdanos!</string>
+    <string name="app_version">Versión:</string>
+
+    <string name="light">Luz</string>
+    <string name="dark">Oscuro</string>
+    <string name="system_default">Por Defecto Del Sistema</string>
+    <string name="set_battery">Set por ahorro de batería</string>
+
+    <!---Update Text-->
+    <string name="newversion">Nueva versión disponible</string>
+    <string name="continuee">Continuar</string>
+</resources>
