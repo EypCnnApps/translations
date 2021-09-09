@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Batarya Kalibrasyonu</string>
+
+    <!---activity_privacy.xml-->
+    <string name="privacy0"><a href="https://sites.google.com/view/batterycalibrationprivacy/privacy-policy"><span style="text-decoration: underline; color: #0000ff;">Gizlilik Sözleşmesi</span></a> ve <a href="https://sites.google.com/view/batterycalibrationprivacy/terms-conditions"><span style="text-decoration: underline; color: #0000ff;">Kullanım Koşullarını</span></a> okudum ve kabul ediyorum.</string>
+    <string name="privacy1">Kullanım Koşulları</string>
+    <string name="privacy2">Onayla ve Devam Et</string>
+    <string name="privacy3">İptal</string>
+    <string name="privacy4">okudum ve kabul ediyorum</string>
+
+    <!---Alert Dialog-->
+    <string name="attention">Dikkat</string>
+    <string name="attention1">Kalibrasyonun faydasını görmeniz zaman alabilir.Lütfen sabırlı olun. Kalibrasyon sonrası cihazınızı yeniden başlatabilirsiniz.</string>
+    <string name="okay">Tamam</string>
+
+    <!---Bottom Menu-->
+    <string name="rootless_method">Köksüz Kalibre</string>
+    <string name="root_method">Kök İle Kalibre</string>
+
+    <!---card_one.xml-->
+    <string name="calibration_info">Mobil cihazlar için en sıkıntılı olan batarya sorununu boşaltma sıkıntısını çözmek için sizlere yararlı bir uygulama sunuyoruz. Pil performansını cihazınızı ilk aldığınız gibi kullanmak sadece cihazınızı uygulama ile kalibrasyonu tamamlamak kadar kolay.</string>
+
+    <!---card_three.xml-->
+    <string name="calibrate_rules">1: Telefonunuzu şarj cihazına takınız\n
+    2: Telefonunuz <b>100%</b> olana kadar şarj ediniz\n
+    3: Tamamlandıktan sonra <b>Kalibrasyon</b> butonuna basabilirsiniz\n
+    4: Telefonunuz şarj cihazından çıkarabilirsiniz</string>
+
+    <!---card_four.xml-->
+    <string name="calibrate">Kalibrasyon</string>
+
+    <!---Fragment-->
+    <string name="succesfuly_calibration">Kalibrasyon Başarılı</string>
+    <string name="rootless_calibration">Kök Erişimi Olmadan Kalibrasyon Yapılıyor</string>
+
+    <!---card_two.xml-->
+    <string name="level">Seviye</string>
+    <string name="status">Durum</string>
+    <string name="voltage">Voltaj</string>
+    <string name="health">Sağlık</string>
+    <string name="heat">Isı</string>
+    <string name="charging">Şarj Oluyor</string>
+    <string name="full">Dolu</string>
+    <string name="discharging">Şarjda Değil</string>
+    <string name="not_charging">Şarj Olmuyor</string>
+    <string name="unkown">Bilinmiyor</string>
+    <string name="cold">Soğuk</string>
+    <string name="dead">Ölü</string>
+    <string name="good">İyi</string>
+    <string name="overheat">Hararet</string>
+    <string name="overvoltage">Aşırı Gerilim</string>
+    <string name="fail">Başarısız</string>
+    <string name="unspecified_failure">Bilinmeyen Arıza</string>
+
+    <!---activity_about.xml-->
+    <string name="about">Hakkında</string>
+    <string name="developer">Geliştirici</string>
+    <string name="dark_mode">Karanlık Modu Aktif Et</string>
+    <string name="share">Paylaş</string>
+    <string name="feedback">Geri Bildirim</string>
+    <string name="feedback_des">Soru ve sorunlarınız hakkında bana hızlıca ulaşabilirsiniz</string>
+    <string name="posted">Batarya Kalibrasyon Uygulamasından Gönderildi</string>
+    <string name="shareup">Aşağıdakilerden Birini Seçerek Başla</string>
+    <string name="sharetext">Az önce çok güzel ve yararlı bir uygulama buldum sende hemen görmelisin</string>
+    <string name="donate">Geliştiriciyi Destekle</string>
+    <string name="thanks">Teşekkürler :)</string>
+    <string name="not_internet">İnternet Bağlantısı Bulamadım</string>
+    <string name="back_button">Çıkmak için tekrar basın</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="translate">Çeviri Yap</string>
+    <string name="app_version">Sürüm:</string>
+    <string name="light">Aydınlık</string>
+    <string name="dark">Karanlık</string>
+    <string name="system_default">Sistem Varsayılanı</string>
+    <string name="set_battery">Pil Tasarrufuna Uyarla</string>
+</resources>

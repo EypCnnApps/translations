@@ -1,0 +1,78 @@
+<resources>
+     <string name="app_name">Battery Calibration</string>
+
+    <!---activity_privacy.xml  -->
+    <string name="privacy0"><a href="https://sites.google.com/view/batterycalibrationprivacy/privacy-policy"><span style="text-decoration: underline; color: #4386f7;">Privacy Policy</span></a> and <a href="https://sites.google.com/view/batterycalibrationprivacy/terms-conditions"><span style="text-decoration: underline; color: #4386f7;">Terms of Use</span></a> i read and accept.</string>
+    <string name="privacy1">Terms of Conditions</string>
+    <string name="privacy2">Confirm and Continue</string>
+    <string name="privacy3">Cancel</string>
+    <string name="privacy4">i read and accept</string>
+
+   <!---Alert Dialog-->
+    <string name="attention">Attention</string>
+    <string name="attention1">It may take time to see the benefits of calibration.Please be patient. You can restart your device after calibration.</string>
+    <string name="okay">Okay</string>
+
+    <!---Bottom Menu-->
+    <string name="rootless_method">Rootless Method</string>
+    <string name="root_method">Root Method</string>
+
+    <!---card_one.xml-->
+    <string name="calibration_info">Battery <b>problems</b> are among the most common smartphone concerns, which is why we offer so many useful tips for solving battery drain issues. If you notice that your battery performance and duration has decreased, it could be time to calibrate it.</string>
+
+    <!---card_three.xml-->
+    <string name="calibrate_rules">1: Plug in your phone to the charger\n
+    2: Charge your phone up to <b>100%</b> percent\n
+    3: Tap on the Calibration Button\n
+    4: Unplug your phone</string>
+
+    <!---card_four.xml-->
+    <string name="calibrate">Calibration</string>
+
+    <!---Fragment-->
+    <string name="succesfuly_calibration">Calibration Successful</string>
+    <string name="rootless_calibration">Applying Calibration Without Root Access</string>
+
+    <!---card_two.xml-->
+    <string name="level">Level</string>
+    <string name="status">Status</string>
+    <string name="voltage">Voltage</string>
+    <string name="health">Health</string>
+    <string name="heat">Heat</string>
+    <string name="charging">Charging</string>
+    <string name="full">Full</string>
+    <string name="discharging">Discharging</string>
+    <string name="not_charging">Not Charging</string>
+    <string name="unkown">Unknown</string>
+    <string name="cold">Cold</string>
+    <string name="dead">Dead</string>
+    <string name="good">Good</string>
+    <string name="overheat">Overheat</string>
+    <string name="overvoltage">Over Voltage</string>
+    <string name="fail">Failfure</string>
+    <string name="unspecified_failure">Unspecified Failure</string>
+
+    <!---activity_about.xml-->
+     <string name="about">About</string>
+    <string name="developer">Developer</string>
+    <string name="dark_mode">Enable Dark Mode</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="developermail" translatable="false">eypcnnapps@gmail.com</string>
+    <string name="posted">Posted by Battery Calibration</string>
+    <string name="shareup">Share With One</string>
+    <string name="sharetext">I just found a very nice application, I thought it would be useful to you</string>
+    <string name="donate">Support Developer</string>
+    <string name="thanks">Thanks :)</string>
+    <string name="not_internet">Can\'t Find Internet Connection</string>
+    <string name="back_button">Press back again to exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="translate">Help us out!</string>
+    <string name="app_version">Version:</string>
+
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System Default</string>
+    <string name="set_battery">Set by Battery Saver</string>
+</resources>
