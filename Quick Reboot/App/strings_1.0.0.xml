@@ -7,39 +7,39 @@
     <string name="reboot_to_reset_message">يتم إعادة التشغيل...</string>
 
     <string name="poweroff">إيقاف التشغيل</string>
-    <string name="poweroff_des">أوقف تشغيل جهازك</string>
+    <string name="poweroff_des">إيقاف تشغيل جهازك</string>
     <string name="poweroff_ques">سيتم إيقاف تشغيل جهازك</string>
-    <string name="poweroff_to_reset_message">...يتم إيقاف التشغيل</string>
+    <string name="poweroff_to_reset_message">يتم إيقاف التشغيل...</string>
 
-    <string name="softreboot">إعادة تشغيل سوفتوير</string>
+    <string name="softreboot">إعادة تشغيل سوفت وير</string>
     <string name="softreboot_des">فقط إعادة تشغيل نظام الأندرويد</string>
-    <string name="softreboot_ques">سيتم إعادة تشغيل جهازك للسوفتوير</string>
-    <string name="softreboot_to_reset_message">...إعادة التشغيل سوفتوير</string>
+    <string name="softreboot_ques">سيتم إعادة تشغيل جهازك للسوفت وير</string>
+    <string name="softreboot_to_reset_message">إعادة التشغيل سوفت وير...</string>
 
     <string name="recovery">وضع الاسترداد</string>
-    <string name="recovery_des">إعادة تشغيل جهازك إلى وضع الاسترداد<"/string>
-    <string name="recovery_ques">سيتم إعادة تشغيل جهازك إلى وضع الاسترداد<"/string>
-    <string name="recovery_to_reset_message">...يتم إعادة التشغيل إلى وضع الاسترداد</string>
+    <string name="recovery_des">إعادة تشغيل جهازك إلى وضع الاسترداد</string>
+    <string name="recovery_ques">سيتم إعادة تشغيل جهازك إلى وضع الاسترداد</string>
+    <string name="recovery_to_reset_message">يتم إعادة التشغيل إلى وضع الاسترداد...</string>
 
     <string name="bootloader">محمل إقلاع</string>
-    <string name="bootloader_des">تنزيل أو إعادة تشغيل جهازك وضع Fastboot</string>
+    <string name="bootloader_des"> إعادة تشغيل جهازك إلى وضع Fastboot</string>
     <string name="bootloader_ques">سيتم إعادة تشغيل جهازك إلى وضع محمل الإقلاع</string>
     <string name="bootloader_to_reset_message">يتم إعادة التشغيل إلى محمل الإقلاع</string>
 
     <string name="download">وضع التنزيل</string>
-    <string name="download_des">Restart Your Device In Download Mode</string>
-    <string name="download_ques">Your Device Will Reboot to Download Mode</string>
-    <string name="download_to_reset_message">Rebooting to download...</string>
+    <string name="download_des">إعادة تشغيل جهازك إلى وضع التنزيل</string>
+    <string name="download_ques">سيتم إعادة تشغيل جهازك إلى وضع التنزيل</string>
+    <string name="download_to_reset_message">إعادة التشغيل إلى وضع التنزيل...</string>
 
-    <string name="systemui">System UI</string>
-    <string name="systemui_des">Restart Your System UI</string>
-    <string name="systemui_ques">Your Device Will Restart to System UI</string>
-    <string name="systemui_to_reset_message">Rebooting to SystemUI...</string>
-
-    <string name="safemode">Safe</string>
-    <string name="safemode_des">Restart Your Device In Safe Mode</string>
-    <string name="safemode_ques">Your Device Will Reboot to Safe Mode</string>
-    <string name="safemode_to_reset_message">Rebooting to safe mode...</string>
+    <string name="systemui">واجهة النظام</string>
+    <string name="systemui_des">إعادة تشغيل واجهة النظام الخاصة بك</string>
+    <string name="systemui_ques">سيتم إعادة تشغيل واجهة النظام</string>
+    <string name="systemui_to_reset_message"يتم إعادة تشغيل واجهة النظام...</string>
+    
+    <string name="safemode">الوضع الآمن</string>
+    <string name="safemode_des">إعادة تشغيل جهازك إلى الوضع الآمن</string>
+    <string name="safemode_ques">سيتم إعادة تشغيل جهازك إلى الوضع الآمن</string>
+    <string name="safemode_to_reset_message">يتم إعادة التشغيل إلى الوضغ الآمن...</string>
 
     <string name="edl">EDL</string>
     <string name="edl_des">Restart Your Device In EDL</string>
