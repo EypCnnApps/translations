@@ -1,32 +1,32 @@
 <resources>
     <string name="app_name">Quick Reboot</string>
 
-    <string name="reboot">Reboot</string>
-    <string name="reboot_des">Reboot Your Device</string>
-    <string name="reboot_ques">Your Device Will Reboot</string>
-    <string name="reboot_to_reset_message">Restarting...</string>
+    <string name="reboot">إعادة التشغيل</string>
+    <string name="reboot_des">أعد تشغيل جهازك</string>
+    <string name="reboot_ques">سيتم إعادة تشغيل جهازك</string>
+    <string name="reboot_to_reset_message">يتم إعادة التشغيل...</string>
 
-    <string name="poweroff">Power Off</string>
-    <string name="poweroff_des">Turn Off Your Device</string>
-    <string name="poweroff_ques">Your Device Will Power Off</string>
-    <string name="poweroff_to_reset_message">Shutting down...</string>
+    <string name="poweroff">إيقاف التشغيل</string>
+    <string name="poweroff_des">أوقف تشغيل جهازك</string>
+    <string name="poweroff_ques">سيتم إيقاف تشغيل جهازك</string>
+    <string name="poweroff_to_reset_message">...يتم إيقاف التشغيل</string>
 
-    <string name="softreboot">Software</string>
-    <string name="softreboot_des">Just Reboot The Android System</string>
-    <string name="softreboot_ques">Your Device Will Reboot to Software</string>
-    <string name="softreboot_to_reset_message">Rebooting to software...</string>
+    <string name="softreboot">إعادة تشغيل سوفتوير</string>
+    <string name="softreboot_des">فقط إعادة تشغيل نظام الأندرويد</string>
+    <string name="softreboot_ques">سيتم إعادة تشغيل جهازك للسوفتوير</string>
+    <string name="softreboot_to_reset_message">...إعادة التشغيل سوفتوير</string>
 
-    <string name="recovery">Recovery</string>
-    <string name="recovery_des">Reboot Your Device In Recovery Mode</string>
-    <string name="recovery_ques">Your Device Will Reboot to Recovery Mode</string>
-    <string name="recovery_to_reset_message">Rebooting to recovery...</string>
+    <string name="recovery">وضع الاسترداد</string>
+    <string name="recovery_des">إعادة تشغيل جهازك إلى وضع الاسترداد<"/string>
+    <string name="recovery_ques">سيتم إعادة تشغيل جهازك إلى وضع الاسترداد<"/string>
+    <string name="recovery_to_reset_message">...يتم إعادة التشغيل إلى وضع الاسترداد</string>
 
-    <string name="bootloader">Bootloader</string>
-    <string name="bootloader_des">Download Or Restart Your Device In Fastboot Mode</string>
-    <string name="bootloader_ques">Your Device Will Reboot to Bootloader Mode</string>
-    <string name="bootloader_to_reset_message">Rebooting to bootloader...</string>
+    <string name="bootloader">محمل إقلاع</string>
+    <string name="bootloader_des">تنزيل أو إعادة تشغيل جهازك وضع Fastboot</string>
+    <string name="bootloader_ques">سيتم إعادة تشغيل جهازك إلى وضع محمل الإقلاع</string>
+    <string name="bootloader_to_reset_message">يتم إعادة التشغيل إلى محمل الإقلاع</string>
 
-    <string name="download">Download</string>
+    <string name="download">وضع التنزيل</string>
     <string name="download_des">Restart Your Device In Download Mode</string>
     <string name="download_ques">Your Device Will Reboot to Download Mode</string>
     <string name="download_to_reset_message">Rebooting to download...</string>
