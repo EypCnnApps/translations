@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Quick Reboot</string>
+
+    <string name="reboot">إعادة التشغيل</string>
+    <string name="reboot_des">إعادة تشغيل جهازك</string>
+    <string name="reboot_ques">سيتم إعادة تشغيل جهازك</string>
+    <string name="reboot_to_reset_message">يتم إعادة التشغيل...</string>
+
+    <string name="poweroff">إيقاف التشغيل</string>
+    <string name="poweroff_des">إيقاف تشغيل جهازك</string>
+    <string name="poweroff_ques">سيتم إيقاف تشغيل جهازك</string>
+    <string name="poweroff_to_reset_message">يتم إيقاف التشغيل...</string>
+
+    <string name="softreboot">إعادة تشغيل سوفت وير</string>
+    <string name="softreboot_des">فقط إعادة تشغيل نظام الأندرويد</string>
+    <string name="softreboot_ques">سيتم إعادة تشغيل جهازك للسوفت وير</string>
+    <string name="softreboot_to_reset_message">إعادة التشغيل سوفت وير...</string>
+
+    <string name="recovery">وضع الاسترداد</string>
+    <string name="recovery_des">إعادة تشغيل جهازك إلى وضع الاسترداد</string>
+    <string name="recovery_ques">سيتم إعادة تشغيل جهازك إلى وضع الاسترداد</string>
+    <string name="recovery_to_reset_message">يتم إعادة التشغيل إلى وضع الاسترداد...</string>
+
+    <string name="bootloader">محمل إقلاع</string>
+    <string name="bootloader_des"> إعادة تشغيل جهازك إلى وضع Fastboot</string>
+    <string name="bootloader_ques">سيتم إعادة تشغيل جهازك إلى وضع محمل الإقلاع</string>
+    <string name="bootloader_to_reset_message">يتم إعادة التشغيل إلى محمل الإقلاع</string>
+
+    <string name="download">وضع التنزيل</string>
+    <string name="download_des">إعادة تشغيل جهازك إلى وضع التنزيل</string>
+    <string name="download_ques">سيتم إعادة تشغيل جهازك إلى وضع التنزيل</string>
+    <string name="download_to_reset_message">إعادة التشغيل إلى وضع التنزيل...</string>
+
+    <string name="systemui">واجهة النظام</string>
+    <string name="systemui_des">إعادة تشغيل واجهة النظام الخاصة بك</string>
+    <string name="systemui_ques">سيتم إعادة تشغيل واجهة النظام</string>
+    <string name="systemui_to_reset_message"يتم إعادة تشغيل واجهة النظام...</string>
+    
+    <string name="safemode">الوضع الآمن</string>
+    <string name="safemode_des">إعادة تشغيل جهازك إلى الوضع الآمن</string>
+    <string name="safemode_ques">سيتم إعادة تشغيل جهازك إلى الوضع الآمن</string>
+    <string name="safemode_to_reset_message">يتم إعادة التشغيل إلى الوضغ الآمن...</string>
+
+    <string name="edl">وضع EDL</string>
+    <string name="edl_des">إعادة تشغيل جهازك إلى وضع EDL</string>
+    <string name="edl_ques">سيتم إعادة تشغيل جهازك إلى وضع EDL</string>
+    <string name="edl_to_reset_message">يتم إعادة التشغيل إلى وضع EDL...</string>
+
+    <string name="screen">إيقاف الشاشة</string>
+    <string name="screen_des">سيتم إيقاف الشاشة</string>
+
+    <string name="cancel">إلغاء</string>
+    <string name="okey">حسناً</string>
+    <string name="splash">الروت مطلوب للتطبيق لكي يعمل. يتم فحص الروت. يرجى الإنتظار.</string>
+    <string name="root">صفحة التحكم في الروت</string>
+    <string name="notroot">الجهاز ليس به روت</string>
+    <string name="checkroot">فحص الروت</string>
+
+    <string name="about">حول</string>
+    <string name="developer">المطور</string>
+    <string name="telegram">قناة تيليجرام</string>
+    <string name="telegram_des">التطورات الأخيرة في تطبيقاتي</string>
+    <string name="dark_mode">المظهر</string>
+    <string name="share">مشاركة</string>
+    <string name="share_des">يمكنك أن توصي أصدقائك</string>
+    <string name="feedback">تعليقات</string>
+    <string name="feedback_des">ارسل بريد إلكتروني إلى المطور للحصول على الدعم أو لمشاركةالاقتراحات والأخطاء</string>
+
+    <string name="posted">تم النشر بواسطة Quick Reboot</string>
+    <string name="shareup">شارك مع شخص</string>
+    <string name="sharetext">لقد وجدت للتو تطبيقًا رائعًا جدًا، واعتقدت أنه سيكون مفيدًا لك</string>
+    <string name="donate">دعم المطور</string>
+    <string name="donate_des">دعم المطور من خلال مشاهدة إعلان صغير</string>
+    <string name="thanks">شكراً :)</string>
+    <string name="not_internet">لا يمكن العثور على اتصال الإنترنت</string>
+    <string name="back_button"هل تريد حقاً إغلاق التطبيق</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+
+    <string name="light">ساطع</string>
+    <string name="dark">داكن</string>
+    <string name="system_default">النظام الافتراضي</string>
+    <string name="set_battery">الضبط بواسطة Battery Saver</string>
+
+    <string name="licenses">التراخيص</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+
+    <string name="translate">ساعدنا</string>
+    <string name="translate_des">ماذا عن الترجمة لاستخدام التطبيق بلغته الخاصة؟</string>
+    <string name="supportus">ترجمات</string>
+    <string name="supportyou">مساهمة</string>
+    <string name="new_update">إصدار جديد متاح</string>
+</resources>

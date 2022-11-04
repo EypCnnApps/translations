@@ -25,7 +25,7 @@
     <string name="bootloader_des">Download Or Restart Your Device In Fastboot Mode</string>
     <string name="bootloader_ques">Your Device Will Reboot to Bootloader Mode</string>
     <string name="bootloader_to_reset_message">Rebooting to bootloader...</string>
-
+ 
     <string name="download">Download</string>
     <string name="download_des">Restart Your Device In Download Mode</string>
     <string name="download_ques">Your Device Will Reboot to Download Mode</string>
